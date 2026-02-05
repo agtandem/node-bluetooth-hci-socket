@@ -27,7 +27,7 @@
     "win32"
   ],
   "dependencies": {
-    "@mapbox/node-pre-gyp": "^1.0.6",
+    "@mapbox/node-pre-gyp": "^1.0.8 || >=1.0.11",
     "debug": "^4.3.4",
     "nan": "^2.18.0",
     "node-gyp": "^10.0.1"
